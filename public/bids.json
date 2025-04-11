@@ -6,7 +6,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 15,
-    "image": "../public/assets/Bid1-min.png"
+    "image": "assets/Bid1-min.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 22,
-    "image": "../public/assets/Bid2-min.png"
+    "image": "assets/Bid2-min.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 18,
-    "image": "../public/assets/Bid3-min.png"
+    "image": "assets/Bid3-min.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 10,
-    "image": "../public/assets/Bid4-min.png"
+    "image": "assets/Bid4-min.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 5,
-    "image": "../public/assets/Bid6-min.png"
+    "image": "assets/Bid6-min.png"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 12,
-    "image": "../public/assets/Bid5-min.png"
+    "image": "assets/Bid5-min.png"
   },
   {
     "id": 7,
@@ -60,6 +60,6 @@
     "currentBidPrice": 2850,
     "timeLeft": 2,
     "bidsCount": 8,
-    "image": "../public/assets/Bid7-min.png"
+    "image": "assets/Bid7-min.png"
   }
 ]
