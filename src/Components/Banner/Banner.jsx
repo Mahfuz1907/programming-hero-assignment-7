@@ -1,9 +1,8 @@
 import React from "react";
-import BannerImage from "../../../public/assets/Banner-min.jpg";
 
 const Banner = () => {
   return (
-    <div className="bg-[url('assets/Banner-min.jpg')] w-full h-[730px] bg-cover">
+    <div className="bg-[url('/assets/Banner-min.jpg')] w-full h-[730px] bg-cover">
       <div className="text-white px-[140px] flex flex-col justify-start items-start py-60 gap-5">
         <h1 className="text-5xl font-semibold">
           Bid on Unique Items from <br />
