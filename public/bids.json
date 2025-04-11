@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A legendary 35mm rangefinder camera, celebrated for its precision engineering and timeless design.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 15,
+    "image": "../public/assets/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "An iconic electric guitar known for its lightweight design, dual humbuckers, and rich tone.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 22,
+    "image": "../public/assets/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The first mass-market all-in-one desktop computer with a graphical user interface, a true tech milestone.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 18,
+    "image": "../public/assets/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A classic dive watch with a stainless steel case, unidirectional bezel, and 300m water resistance.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 10,
+    "image": "../public/assets/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of the iconic novel, featuring the original 'Celestial Eyes' dust jacket.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 5,
+    "image": "../public/assets/Bid6-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "A timeless piece of furniture combining molded plywood and leather for elegance and comfort.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 12,
+    "image": "../public/assets/Bid5-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "A unique screen print by the elusive street artist, known for his satirical and thought-provoking works.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 8,
+    "image": "../public/assets/Bid7-min.png"
+  }
+]
