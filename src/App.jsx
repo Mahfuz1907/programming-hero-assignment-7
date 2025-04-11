@@ -6,7 +6,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Footer from "./Components/Footer/Footer";
 
 function App() {
-  const bidsPromise = fetch("../public/bids.json").then((res) => res.json());
+  const bidsPromise = fetch("bids.json").then((res) => res.json());
 
   return (
     <>

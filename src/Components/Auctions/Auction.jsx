@@ -8,7 +8,7 @@ const Auction = ({ bid, handleAddToFavourites, clicked }) => {
   const handleClick = () => {
     handleAddToFavourites(bid);
     toast("Wow so easy!", {
-      closeOnClick: true,
+      closeOnClick: false,
       autoClose: 3000,
     });
   };
@@ -33,7 +33,7 @@ const Auction = ({ bid, handleAddToFavourites, clicked }) => {
             <FaRegHeart className="cursor-pointer" />
           )}
         </button>
-        <ToastContainer closeOnClick={true} autoClose={3000} />
+        <ToastContainer />
       </td>
     </tr>
   );
